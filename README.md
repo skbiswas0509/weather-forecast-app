@@ -1,0 +1,2 @@
+# What is this project?
+This project is a basic weather forecasting web app that takes the city's name and forecasts the weather using the OpenWeatherMap API for 1-5 days. The app outputs the temperature and sky condition
